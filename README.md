@@ -1,7 +1,7 @@
 # VIOSMainModules
 Main Kernel Modules of VIOS
 
-## Kernel Modules
+## Kernel Modules Proposed
 
 1. Voice Recognition (STT)
 2. Feature Extractor (FE)
@@ -9,3 +9,6 @@ Main Kernel Modules of VIOS
 4. Command Executor (CmdExec)
 5. Speech Generator (SpGen)
 6. Voice Synthesis (TTS)
+
+# In This Repository
+
